@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "533196796488",
+    "firebase_url": "https://ismail-f81c8.firebaseio.com",
+    "project_id": "ismail-f81c8",
+    "storage_bucket": "ismail-f81c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533196796488:android:46bdab2494ad3132",
+        "android_client_info": {
+          "package_name": "com.listdetailwithcloudfirestore.moodleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533196796488-mpu9ujg61i7i4idhhln8bh6mv9hdeifq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqvQPCI8VX1tV3Aok09hGzrwPmLV0IRZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533196796488-mpu9ujg61i7i4idhhln8bh6mv9hdeifq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
